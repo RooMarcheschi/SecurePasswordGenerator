@@ -1,0 +1,4 @@
+PySimpleGUI==4.60.0
+matplotlib==3.5.2
+pandas==1.4.2
+jupyter-client==7.3.4
